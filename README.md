@@ -1,6 +1,6 @@
 #  Module-2 Day-3 SEB
 ## AIM:
-Write a C function/subprogram to check whether the given number is a perfect square or not.
+Write a C function to check whether the given number is a perfect square or not.
 
 ### Note:  Function should not have a return type and it should have arguments.
 
